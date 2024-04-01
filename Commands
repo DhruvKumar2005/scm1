@@ -1,0 +1,8 @@
+Remove from staging area:
+git restore --staged name.txt
+
+Adding to backstage:
+git stash
+
+Removing from backstage:
+git stash pop
